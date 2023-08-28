@@ -1,0 +1,14 @@
+treinta,30
+veinte,20
+ochenta,80
+cincuennta,50
+diez,10
+null,40
+l,90
+nuevo,400
+l;lmk,100
+uyuyui,520
+uuu,390
+null,0
+null,20
+diana,490
